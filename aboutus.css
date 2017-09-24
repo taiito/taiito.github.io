@@ -1,0 +1,118 @@
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+       background: #E0D7C5;
+       margin-left: 25vw;
+    }
+
+    header {
+        font-family: 'Indie Flower', cursive;
+        color: #612E07;
+        background-color:#FFE0B2;
+        text-align: center;
+        padding: 5px;
+        border: thin solid #615746;
+        margin: 0px 100px 0px 0px;
+        font-size: 24px;
+        display: block;
+    }
+
+    p {
+      padding-bottom: 20px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    h2 {
+      text-align: center;
+      color: #612E07;
+      font-family: 'Open Sans', sans-serif
+    }
+
+    h3 {
+      font-family: 'Indie Flower', cursive;
+      color: #612E07;
+      font-size: 24px;
+      text-align: center;
+      padding-top: 10px;
+      padding-bottom: 0px;
+      margin-bottom: 0px;
+    }
+    nav {
+        float: left;
+        width: 100%;
+        margin-left: 15vw;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        background-color: #E0C4AF;
+        border-bottom: ;
+        list-style-type: none;
+        border: 1px solid #e7e7e7;
+        text-align: center;
+    }
+    nav li {
+        float: left;
+        text-align: center;
+    }
+    nav li a {
+        color: #61554B;
+        font-size: 16px;
+        text-align: center;
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: #612E07;
+    }
+
+    img {
+      height: 300px;
+      padding: 50px;
+      margin-top: 0px;
+      display: inline-block;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+
+    article {
+      margin-bottom: : 0px;
+    }
+
+
+    .lighter {
+      background-color: #E0C4AF;
+
+    }
+    .darker {
+      background-color: #E5B996;
+    }
+
+
+
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
